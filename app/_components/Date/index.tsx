@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "./inde.module.css";
+import styles from "./index.module.css";
 
 type Props = {
   date: string;

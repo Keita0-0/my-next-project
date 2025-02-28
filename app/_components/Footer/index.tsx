@@ -7,17 +7,17 @@ export default function Footer() {
       <nav className={styles.nav}>
         <ul className={styles.items}>
           <li className={styles.item}>
-            <Link href="/news">ニュース</Link>
+            <Link href="/news">blog</Link>
           </li>
           <li className={styles.item}>
-            <Link href="/members">メンバー</Link>
+            <Link href="/members">work</Link>
           </li>
           <li className={styles.item}>
-            <Link href="/contact">お問い合わせ</Link>
+            <Link href="/contact">contact(未実装)</Link>
           </li>
         </ul>
       </nav>
-      <p className={styles.cr}>©︎ SIMPLE. All Rights Reserved 2024</p>
+      <p className={styles.cr}>©︎ Keita0-0. All Rights Reserved 2025</p>
     </footer>
   );
 }

@@ -11,7 +11,7 @@
   opacity: 0.9;
 }
 
-@media (max-widht: 640px) {
+@media (max-width: 640px) {
   .button {
     padding: 16px 24px;
     width: 100%;
